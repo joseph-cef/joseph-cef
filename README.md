@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **youcefdz0dz@gmail.com**
 
-- 🔭 I’m currently working on: `Personal Projects`, `Mini Games`, `Portfolio`
+- 🔭 I’m currently working on: `Personal Projects`,`Portfolio`
 
 - 🌱 I’m currently learning: `React.js`, `TailwindCSS`, `Git & GitHub`, `API Integration`
 
