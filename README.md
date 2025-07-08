@@ -3,7 +3,7 @@
 
 ---
 
-- 📫 How to reach me: **youcefdz0dz@gmail.com**
+- 📫 How to reach me: **josephdev1962@gmail.com**
 
 - 🔭 I’m currently working on: `Personal Projects`,`Portfolio`
 
