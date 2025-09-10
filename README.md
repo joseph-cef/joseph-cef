@@ -3,16 +3,27 @@
 
 ---
 
-- 📫 How to reach me: **josephdev1962@gmail.com**
+📫 How to reach me: josephdev1962@gmail.com
 
-- 🔭 I’m currently working on: `Personal Projects`,`Portfolio`
+🔭 I’m currently working on:
+Personal Projects, Portfolio
 
-- 🌱 I’m currently learning: `React.js`, `TailwindCSS`, `Git & GitHub`, `API Integration`
+🌱 I’m currently learning & practicing:
+React.js, Django, PostgreSQL, Python,
+Git & GitHub, API Integration,
+Bootstrap, TailwindCSS,
+HTML, CSS, JavaScript
 
-- 💬 Ask me about: **HTML, CSS, JavaScript, Git**
+💻 What I’m focusing on right now:
+Improving my skills by building mini-projects and some medium-scale projects to strengthen my knowledge in full-stack web development.
 
-- ⚡ Fun fact: I love turning coffee into code ☕💻
+💬 Ask me about:
+React, Django, PostgreSQL, Python,
+Git & GitHub, API Integration,
+Bootstrap, TailwindCSS,
+HTML, CSS, JavaScript
 
+⚡ Fun fact: I love turning coffee into code ☕💻
 ---
 
 ## 🛠️ Languages and Tools
