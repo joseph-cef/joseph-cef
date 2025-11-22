@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youcef Brahim</h1>
-<h3 align="center">💻 Full-Stack Web Developer | MERN & Django Developer | Algeria</h3>
+<h3 align="center">💻 Full-Stack Web Developer | MERN Stack Developer | Algeria</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+%7C+Node.js+%7C+Express+%7C+MongoDB;Django+%7C+PostgreSQL+%7C+Python;Always+Learning+New+Technologies+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+(MongoDB+Express+React+Node);Building+Modern+Web+Applications;Always+Learning+New+Technologies+🚀">
 </p>
 
 ---
@@ -13,9 +13,9 @@
 ---
 
 ## 🔭 Currently Working On  
-- Building Real-World Web Applications  
-- Developing My Professional Portfolio  
-- Expanding My MERN + Django Skillset  
+- Building Real-World MERN Applications  
+- Developing My Personal Portfolio  
+- Enhancing UI/UX and Backend API Design  
 
 ---
 
@@ -29,53 +29,51 @@
 
 ### **Backend**
 - **Node.js + Express.js**  
-- **MongoDB (Mongoose)**  
-- Django & Python  
+- **MongoDB + Mongoose**  
 
 ### **Database**
-- PostgreSQL  
 - MongoDB  
+- PostgreSQL (Secondary)  
 
 ### **Tools & Workflow**
 - Git & GitHub  
-- API Development  
+- REST API Development  
+- JSON, Postman  
 - VS Code  
-- Linux Basics  
 
 ---
 
 ## 💻 Focus Areas  
-- MERN Stack Projects (MongoDB, Express, React, Node)  
-- Django REST API + PostgreSQL  
-- Building clean UI/UX interfaces  
-- Creating scalable backend systems  
+- MERN Stack Web Development  
+- Clean UI/UX Interfaces  
+- Scalable REST APIs  
+- Authentication & Authorization  
+- Real-World Project Architecture  
 
 ---
 
 ## 💬 Ask Me About  
-- React, Node.js, Express, MongoDB  
-- Django, Python, PostgreSQL  
-- REST APIs & Authentication  
+- Node.js + Express.js  
+- React.js  
+- MongoDB & Mongoose  
 - TailwindCSS, Bootstrap  
-- Git & GitHub Workflow  
+- Git & GitHub  
+- REST API Development  
 
 ---
 
 ## ⚡ Fun Fact  
-I turn **coffee ☕** into **clean code 💻** every day!
+I turn **coffee ☕** into **clean, functional code 💻**.
 
 ---
 
 # 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
