@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Web Developer | MERN Stack Developer | Algeria</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+(MongoDB+Express+React+Node);Building+Modern+Web+Applications;Always+Learning+New+Technologies+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+(MongoDB+Express+React+Node);Building+Modern+Web+Applications;Always+Learning+New+Technologies+🚀;BRAHIM+Youcef+2lmd">
 </p>
 
 ---
